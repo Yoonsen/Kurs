@@ -1,7 +1,7 @@
 # Kurs
 Kurs i dhlab
 
-Tar for seg ngram https://nb.no/ngram
+Tar for seg ngram https://nb.no/ngram, https://nb.no/sprakbanken/ngram
 
 korpus eksplisitt liste av URNer
 
